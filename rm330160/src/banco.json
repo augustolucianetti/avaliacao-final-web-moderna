@@ -1,0 +1,32 @@
+{
+  "contatos": [
+    {
+      "cpf": "51636378005",
+      "nome": "André Coelho",
+      "telefone": 18995452535,
+      "email": "andre.coelho@gmail.com",
+      "id": 1
+    },
+    {
+      "cpf": "67081255019",
+      "nome": "Felipe Moraes",
+      "telefone": 11995452535,
+      "email": "felipe.moraes@gmail.com",
+      "id": 2
+    },
+    {
+      "cpf": "41874219800`",
+      "nome": "Augusto César Favaretto Lucianetti",
+      "telefone": 18996218101,
+      "email": "augusto_lucianetti@hotmail.de",
+      "id": 3
+    },
+    {
+      "cpf": "876543219",
+      "nome": "Joãosinho",
+      "telefone": 11995452375,
+      "email": "joaosinho@hotmail.com",
+      "id": 4
+    }
+  ]
+}
